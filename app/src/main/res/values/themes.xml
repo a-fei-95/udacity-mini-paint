@@ -6,4 +6,5 @@
     </style>
 
     <style name="Theme.MiniPaint" parent="Base.Theme.MiniPaint" />
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
 </resources>
